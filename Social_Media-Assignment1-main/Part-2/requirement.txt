@@ -1,0 +1,3 @@
+pip install requests nltk wordcloud matplotlib flask streamlit
+pip install scipy==1.10.1 gensim==4.3.0
+api_key = '7a3ff37653f347c5a234987df2fecfd7'
